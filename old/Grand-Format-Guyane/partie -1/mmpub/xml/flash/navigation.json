@@ -1,0 +1,18 @@
+{
+"nbre_dates":10,
+"dates":[{
+	"date":"24 février",
+	"lien":"/grands-formats/visuel/2015/02/24/objectif-mitaraka-destination-terra-incognita_4582595_4497053.html",
+	"url_vignette":"http://medias.lemonde.fr/mmpub/xml/flash/vignette1.jpg"	,
+	"titre":"Destination «&nbsp;terra incognita&nbsp;»",
+	"actif":true
+	},
+	{
+	"date":"27 février",
+	"lien":"/grands-formats/visuel/2015/02/27/objectif-mitaraka-en-pleine-jungle-la-science-fait-son-nid_4584526_4497053.html",
+	"url_vignette":"http://medias.lemonde.fr/mmpub/xml/flash/jour2-vignettes.jpg"	,
+	"titre":"En pleine jungle, la science fait son nid",
+	"actif":true
+	}
+	]
+}
